@@ -1,0 +1,1 @@
+This code will guide you to program a simple program to send a simple message to the web pages. The code is very to be enchanced. To use this code, you need to do folloing configurations.
